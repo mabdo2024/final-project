@@ -77,3 +77,9 @@ image loading and rgb conveersion
 gradio image creator,also used some of their libary codes for our project
 - https://research.google.com/colaboratory/faq.html#gpu
 allowed us to use collab gpu rather than cpu
+- https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html
+cross entropy loss code and setup
+- https://scikit-learn.org/stable/modules/generated/sklearn.metrics.ConfusionMatrixDisplay.html
+primarly confusion matrix and how to display the output vs input
+- https://www.kaggle.com/datasets/vasukipatel/face-recognition-dataset/data
+(Author:Vasuki Patel) project dataset 
