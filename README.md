@@ -1,4 +1,4 @@
-# Multi-Human Face Classifier (ResNet18)
+# Multi-Human Face Classifier 
 
 This project used transfer learning with pre trained ResNet18 to classify faces of multiple people.  
 It was developed in Google Colab .
@@ -40,7 +40,7 @@ Place it inside /content/ before running the notebook.
 ---
 
 ## Model Info
-- **Base Model:** ResNet18 pretrained on ImageNet) 
+- **Base Model:** ResNet18 pretrained on ImageNet with included pooling 
 - **Modified:** Final FC layer replaced with num_classes outputs  
 - **Optimizer:** Adam (lr = 1e-4)  
 - **Loss:** CrossEntropyLoss  
