@@ -14,7 +14,7 @@ It was developed in Google Colab .
 
 ##  Results
 - **Final Accuracy:** 52–57 %  
-- **Training Loss (final epoch):** 0.96  
+- **Training Loss :** 0.96  
 - **Precision:** 0.59  
 - **Recall:** 0.52  
 
