@@ -66,3 +66,14 @@ Semester: **Fall 2025**
  the model we used for our project,also used some sample code to help implement the code and model to our project
 - https://www.analyticsvidhya.com/blog/2023/12/adam-optimizer/
  Our optimizer that was used in our project
+-https://pytorch.org/get-started/locally/
+-https://pytorch.org/docs/stable/index.html
+torch install and setup and libary
+-https://scikit-learn.org/stable/api/index.html
+used for metrics like accuracy precision and recall as well as some matrix usage
+-https://pillow.readthedocs.io/en/stable/
+image loading and rgb conveersion
+-https://www.gradio.app/guides/quickstart
+gradio image creator,also used some of their libary codes for our project
+-https://research.google.com/colaboratory/faq.html#gpu
+allowed us to use collab gpu rather than cpu
