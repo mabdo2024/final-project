@@ -59,3 +59,10 @@ Upload a face which will get top-5 and predicted identities with confidence perc
 Created by *[Mohammed Abdo]*  
 Course: **CAP 4630 – Introduction to Artificial Intelligence**  
 Semester: **Fall 2025**
+
+
+## refernces
+- https://www.geeksforgeeks.org/deep-learning/resnet18-from-scratch-using-pytorch/
+ the model we used for our project,also used some sample code to help implement the code and model to our project
+- https://www.analyticsvidhya.com/blog/2023/12/adam-optimizer/
+ Our optimizer that was used in our project
