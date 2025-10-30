@@ -33,7 +33,7 @@ README.md = Project overview and instructions
 
 ##  Dataset
 Download the dataset :  
-🔗 [Google Drive – dataset_ready.zip](https://drive.google.com/file/d/1q23xEeSfhe3famj7bgXc8tLNyuY040im/view?usp=sharing)
+ [Google Drive – dataset_ready.zip](https://drive.google.com/file/d/1q23xEeSfhe3famj7bgXc8tLNyuY040im/view?usp=sharing)
 
 Place it inside /content/ before running the notebook.
 
