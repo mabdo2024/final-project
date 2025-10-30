@@ -13,12 +13,12 @@ It was developed in Google Colab .
 ---
 
 ##  Results
-- **Final Accuracy:** 52–57 %  
-- **Training Loss :** 0.96  
-- **Precision:** 0.59  
-- **Recall:** 0.52  
+- **Final Accuracy:** 74 %  
+- **Training Loss :** 0.198 
+- **Precision:** 0.73 
+- **Recall:** 0.74  
 
-> The model was trained for 10 epochs using transfer learning on ResNet18, with Adam optimizer and CrossEntropyLoss.
+> The model was trained for 5 epochs using transfer learning on ResNet18, with Adam optimizer and CrossEntropyLoss.
 
 ---
 
@@ -42,10 +42,10 @@ Place it inside /content/ before running the notebook.
 ## Model Info
 - **Base Model:** ResNet18 pretrained on ImageNet) 
 - **Modified:** Final FC layer replaced with num_classes outputs  
-- **Optimizer:** Adam (lr = 1e-3)  
+- **Optimizer:** Adam (lr = 1e-4)  
 - **Loss:** CrossEntropyLoss  
 - **Batch Size:** 16  
-- **Epochs:** 10  
+- **Epochs:** 5  
 
 ---
 
