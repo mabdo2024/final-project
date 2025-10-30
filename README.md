@@ -1,5 +1,4 @@
-Multihuman face classifier
-Using Resnet18 as model
+# Multihuman face classifierUsing Resnet18 as model
 
 
 
