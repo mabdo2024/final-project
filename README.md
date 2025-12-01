@@ -56,7 +56,7 @@ Upload a face which will get top-5 and predicted identities with confidence perc
 ---
 
 ##  Credits
-Created by *[Mohammed Abdo]*  
+Created by *[Mohammed Abdo,Zaher Abdo,Jonathan Garcia, Zachary Heuer, Nam Nguyen]*  
 Course: **CAP 4630 – Introduction to Artificial Intelligence**  
 Semester: **Fall 2025**
 
