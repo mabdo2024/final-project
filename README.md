@@ -54,12 +54,12 @@ After training completes, the notebook opens a **Gradio web interface**:
 Upload a face which will get top-5 and predicted identities with confidence percentages.  
 
 ---
-## 🎥 presentation Video
+##  presentation Video
 
 <details>
   <summary><strong>Click to open presentation</strong></summary>
 
-[▶️ **Watch Video (Google Drive)**](https://drive.google.com/file/d/1nmwqRF6jhWNEVxG9ODOE7kdsOY8MjWDc/view?usp=drive_link)
+[ **Watch Video (Google Drive)**](https://drive.google.com/file/d/1nmwqRF6jhWNEVxG9ODOE7kdsOY8MjWDc/view?usp=drive_link)
 
 </details>
 
